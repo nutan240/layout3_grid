@@ -95,20 +95,12 @@ i{
     display: grid;
     background-color: #cccccc;
     color: #969696;
-    font-size: 62px;
+    font-size: 65px;
     justify-content: center;
     align-items: center;
     font-weight: bold;
     height: 250px;
-    font-family: 'EB Garamond', serif;
-font-family: 'Hedvig Letters Sans', sans-serif;
-font-family: 'Lato', sans-serif;
-font-family: 'Lora', serif;
-font-family: 'Noto Sans Pahawh Hmong', sans-serif;
-font-family: 'Oswald', sans-serif;
-font-family: 'PT Sans', sans-serif;
-font-family: 'Roboto', sans-serif;
-font-family: 'Roboto Slab', serif;
+font-family: sans-serif ;
 }
 
 .main_para {
